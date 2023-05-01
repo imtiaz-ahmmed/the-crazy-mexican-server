@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Sofía Hernandez",
+      "picture": "https://images.unsplash.com/photo-1595257841889-eca2678454e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "bio": "Sofía Hernandez is a renowned chef with over 15 years of experience specializing in traditional Mexican cuisine. Her passion for cooking started in her grandmother's kitchen, where she learned the secrets of preparing authentic dishes using fresh, local ingredients. Sofía's signature dishes include her award-winning mole sauce and her famous chile rellenos.",
+      "likes": ["Mexican cuisine", "Spicy dishes", "Mole sauce", "Tamales"],
+      "numRecipes": 200,
+      "yearsExperience": 15
+    },
+    {
+      "id": 2,
+      "name": "Juan Ramirez",
+      "picture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "bio": "Juan Ramirez is a master chef with over 20 years of experience in the culinary industry. He is known for his fusion cuisine, combining flavors and techniques from around the world to create unique and delicious dishes. Juan's favorite ingredients include fresh seafood, exotic spices, and seasonal vegetables.",
+      "likes": ["Fusion cuisine", "Seafood", "Exotic spices"],
+      "numRecipes": 300,
+      "yearsExperience": 20
+    },
+    {
+      "id": 3,
+      "name": "Maria Rodriguez",
+      "picture": "https://images.unsplash.com/photo-1556911073-52527ac43761?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "bio": "Maria Rodriguez is a pastry chef with a passion for creating beautiful and delicious desserts. She trained at the prestigious Le Cordon Bleu and has worked in some of the top restaurants in the world. Maria's desserts are known for their intricate designs and complex flavors, and she is especially skilled in creating macarons and other delicate pastries.",
+      "likes": ["Pastry", "Macarons", "Desserts"],
+      "numRecipes": 100,
+      "yearsExperience": 12
+    },
+    {
+      "id": 4,
+      "name": "Carlos Gomez",
+      "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
+      "bio": "Carlos Gomez is a grill master with a love for all things barbecue. He has won numerous awards for his ribs, brisket, and pulled pork, and his sauces and rubs are sought after by foodies around the world. Carlos is also skilled at smoking fish and other seafood, and his grilled vegetables are always a hit with vegetarians and vegans.",
+      "likes": ["Barbecue", "Smoked meats", "Grilled vegetables"],
+      "numRecipes": 150,
+      "yearsExperience": 18
+    },
+    {
+      "id": 5,
+      "name": "Elena Torres",
+      "picture": "https://images.unsplash.com/photo-1667515401823-84b990293a11?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "bio": "Elena Torres is a chef with a passion for healthy eating. She specializes in creating flavorful and nutritious meals that are packed with superfoods and other healthy ingredients. Elena's dishes are known for their bright colors and bold flavors, and she often incorporates international ingredients and flavors into her recipes.",
+      "likes": ["Healthy eating", "Superfoods", "International cuisine"],
+      "numRecipes": 120,
+      "yearsExperience": 10
+    },
+    {
+        "id": 6,
+        "name": "Luigi Martinez",
+        "picture": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "bio": "Luisa Martinez is a chef with a passion for creating modern takes on classic Mexican dishes. He is known for her innovative use of traditional ingredients and techniques, and his dishes often feature surprising flavor combinations and unique presentations. Luisa's specialties include his creative takes on tamales and his colorful salads made with edible flowers.",
+        "likes": ["Modern Mexican cuisine", "Creative presentations", "Edible flowers"],
+        "numRecipes": 80,
+        "yearsExperience": 8
+      }
+      
+]
