@@ -11,6 +11,14 @@ app.get('/chef', (req, res) => {
     res.send(chef);
 })
 
+app.get('/recipe/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedChef = chef.find(n => n.id === parseInt (id));
+    res.send(selectedChef)
+    console.log(selectedChef);
+})
+
+
 app.listen(port, () => {
     console.log(`The Crazy Mexican API is running on port: ${port}`)
 })
