@@ -26,7 +26,7 @@
       },
       {
         "recipeID": 102,
-        "recipeName": "Spaghetti with Meat Sauce",
+        "recipeName": "Mexican Rice and Black Beans",
         "ingredients": [
           "1 pound ground beef",
           "1 onion, chopped",
@@ -42,7 +42,7 @@
       },
       {
         "recipeID": 103,
-        "recipeName": "Spaghetti with Meat Sauce",
+        "recipeName": "Chiles Rellenos",
         "ingredients": [
           "1 pound ground beef",
           "1 onion, chopped",
@@ -69,7 +69,7 @@
     "recipes": [
       {
         "recipeID": 201,
-        "recipeName": "Spaghetti with Meat Sauce",
+        "recipeName": "Chiles Rellenos",
         "ingredients": [
           "1 pound ground beef",
           "1 onion, chopped",
@@ -85,7 +85,7 @@
       },
       {
         "recipeID": 202,
-        "recipeName": "Spaghetti with Meat Sauce",
+        "recipeName": "Mexican Rice and Black Beans",
         "ingredients": [
           "1 pound ground beef",
           "1 onion, chopped",
@@ -128,7 +128,7 @@
     "recipes": [
       {
         "recipeID": 301,
-        "recipeName": "Spaghetti with Meat Sauce",
+        "recipeName": "Mexican Rice and Black Beans",
         "ingredients": [
           "1 pound ground beef",
           "1 onion, chopped",
@@ -144,7 +144,7 @@
       },
       {
         "recipeID": 302,
-        "recipeName": "Spaghetti with Meat Sauce",
+        "recipeName": "Chiles Rellenos",
         "ingredients": [
           "1 pound ground beef",
           "1 onion, chopped",
@@ -203,7 +203,7 @@
       },
       {
         "recipeID": 402,
-        "recipeName": "Spaghetti with Meat Sauce",
+        "recipeName": "Mexican Rice and Black Beans",
         "ingredients": [
           "1 pound ground beef",
           "1 onion, chopped",
@@ -219,7 +219,7 @@
       },
       {
         "recipeID": 402,
-        "recipeName": "Spaghetti with Meat Sauce",
+        "recipeName": "Chiles Rellenos",
         "ingredients": [
           "1 pound ground beef",
           "1 onion, chopped",
@@ -246,7 +246,7 @@
     "recipes": [
       {
         "recipeID": 501,
-        "recipeName": "Spaghetti with Meat Sauce",
+        "recipeName": "Mexican Rice and Black Beans",
         "ingredients": [
           "1 pound ground beef",
           "1 onion, chopped",
@@ -262,7 +262,7 @@
       },
       {
         "recipeID": 502,
-        "recipeName": "Spaghetti with Meat Sauce",
+        "recipeName": "Chiles Rellenos",
         "ingredients": [
           "1 pound ground beef",
           "1 onion, chopped",
@@ -305,7 +305,7 @@
     "recipes": [
       {
         "recipeID": 601,
-        "recipeName": "Spaghetti with Meat Sauce",
+        "recipeName": "Chiles Rellenos",
         "ingredients": [
           "1 pound ground beef",
           "1 onion, chopped",
@@ -321,7 +321,7 @@
       },
       {
         "recipeID": 602,
-        "recipeName": "Spaghetti with Meat Sauce",
+        "recipeName": "Mexican Rice and Black Beans",
         "ingredients": [
           "1 pound ground beef",
           "1 onion, chopped",
